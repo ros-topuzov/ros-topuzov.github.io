@@ -33,6 +33,7 @@
                },
                "storeNumber": "123865",  //STORE NUMBER
                "storeZipCode": "20505"  //STORE ZIP CODE
+               "Testing_Variable": "1234567"  //STORE ZIP CODE
             }
        }
     );
