@@ -8,6 +8,6 @@
 <body>
 <h1>Hello World</h1>
 <p>LP Test page.</p>
-  <div id="LP_DIV_1621908932412" data-LP-event="click">TEST </div>
+  <div id="LP_DIV_1621908932412" data-LP-event="click">TEST LINK</div>
 </body>
 </html>
